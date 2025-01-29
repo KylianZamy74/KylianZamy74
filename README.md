@@ -1,6 +1,6 @@
 # 👋 Hello, moi c'est Kylian !  
 
-## 🚀 Développeur Web Fullstack | Passionné & Ambitieux  
+## 🚀 Développeur Web Fullstack 
 
 🎓 Fraîchement diplômé et déjà plongé dans le monde du **développement web**, je perfectionne mes compétences tout en construisant mon propre **portfolio**.  
 
