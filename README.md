@@ -1,40 +1,40 @@
 # 👋 Hello, moi c'est Kylian !  
 
-## 🚀 Développeur Web Fullstack | Passionné & Ambitieux  
+## Développeur Web Fullstack | Curieux et Passionné  
 
-🎓 Fraîchement diplômé et déjà plongé dans le monde du **développement web**, je perfectionne mes compétences tout en construisant mon propre **portfolio**.  
-
-💡 Mon objectif ? **Devenir freelance** et travailler sur des projets innovants qui repoussent les limites du web.  
-
----
-
-## 🔥 **Ce que je fais**  
-
-### 💻 Développement Fullstack  
-Je conçois des **applications web modernes et performantes**, de la **conception UI/UX** au **développement backend robuste**.  
-
-- 🎨 **Frontend** : React ⚛️ | TailwindCSS 🎨 | SCSS 🖌 | Figma 🖍  
-- 🛠 **Backend** : Node.js 🚀 | Express.js ⚡  
-- 🔄 **Fullstack** : Next.js 🌍  
-- 🗄 **Base de données & ORM** : PostgreSQL 🐘 | Sequelize 📦 | Prisma ⚡  
-
-### 🏗 **Projets réalisés**  
-📌 **[CinéDelices](https://github.com/KylianZamy74/CineDelices)** – Une application qui associe films et recettes de cuisine 🎬🍽  
-📌 **Application de stage** – Un projet développé durant mon stage de formation. (En savoir plus sur mon site).
-
-🎯 **Projet actuel** : Mon **portfolio** personnel, une vitrine de mes compétences et de mon style en tant que développeur web.  
+Fraîchement diplômé, je me spécialise dans le **développement web fullstack** avec une approche centrée sur la performance, l'accessibilité et l’expérience utilisateur.  
+Actuellement, je travaille sur mon **portfolio** et je me prépare à me lancer en **freelance** pour relever de nouveaux défis.  
 
 ---
 
-## 📬 **Me contacter**
+## 🔧 Compétences & Technologies  
 
-📩 **Email** : [kzamy.74940@gmail.com](mailto:TonEmail@example.com)  
+### Frontend  
+- **React** | **Next.js**  
+- **TailwindCSS** | **SCSS**  
+- **Figma** pour la conception UI/UX  
+
+### Backend  
+- **Node.js** | **Express.js**  
+- **PostgreSQL** avec **Sequelize** et **Prisma**  
+
+### Gestion de bases de données  
+- Modélisation et optimisation avec PostgreSQL  
+
+---
+
+## 📌 Projets réalisés  
+
+- **[CinéDelices](https://github.com/KylianZamy74/CineDelices)** – Une application qui associe films et recettes de cuisine  
+- **Application de stage** – Développée durant ma formation (plus d’infos bientôt sur mon portfolio)  
+
+📍 **En cours** : Mon **portfolio personnel**, un espace où je partagerai mes réalisations et expériences.  
+
+---
+
+## 📬 Me contacter  
+
+📩 **Email** : [kzamy.74940@gmail.com](mailto:kzamy.74940@gmail.com)  
 🔗 **LinkedIn** : [Mon Profil](https://www.linkedin.com/in/kylian-zamy-b0a5ab303/)  
- 
 
-💡 **Besoin d’un développeur et designer motivé et passionné ?** Discutons ensemble ! 🚀  
-
----
-
-🔥 **Merci de visiter mon profil, et à bientôt !** 👋  
-
+Toujours partant pour échanger autour du développement web, alors n’hésitez pas à me contacter !  
