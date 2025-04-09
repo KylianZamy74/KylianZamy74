@@ -41,7 +41,9 @@ Je crée des **applications web dynamiques** centrées sur l'utilisateur, y comp
 ## 📌 Projets réalisés  
 
 - **[CinéDelices](https://github.com/KylianZamy74/CineDelices)** – Une application qui associe films et recettes de cuisine  
-- **Application de stage** – Développée durant ma formation (plus d’infos bientôt sur mon portfolio)  
+- **Application de stage** – Développée durant ma formation (plus d’infos sur mon site internet https://kylian.-zamy.dev).
+- **Mon site personnel** - Parce qu'il faut bien être visible sur le web 😊
+  accessible ici => **https://kylian-zamy.dev** <=
 
 📍 **En cours** : Mon **portfolio personnel**, un espace où je partagerai mes réalisations et expériences.  
 
