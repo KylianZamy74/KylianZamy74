@@ -1,14 +1,10 @@
-#### French version
-
-# 👋 Hello, moi c'est Kylian !  
-
+# 👋 Hello, moi c'est Kylian !
 
 ## Développeur Web Fullstack | Curieux et Passionné  
 
-
-
 Fraîchement diplômé, je me spécialise dans le **développement web fullstack** avec une approche centrée sur la performance, l'accessibilité et l’expérience utilisateur.  
-Actuellement, je travaille sur mon **portfolio** et je me prépare à me lancer en **freelance** pour relever de nouveaux défis.  
+Actuellement, je travaille sur un **projet d’agence de voyage** pour une société égyptienne.  
+🎯 Mon **site web personnel** est en ligne ici 👉 [kylian-zamy.dev](https://kylian-zamy.dev)
 
 ---
 
@@ -22,7 +18,7 @@ Actuellement, je travaille sur mon **portfolio** et je me prépare à me lancer 
 ### Backend  
 - **Node.js** | **Express.js**  
 - **PostgreSQL** avec **Sequelize** et **Prisma**
-- 
+
 --- 
 
 ## 📌 Services que je propose  
@@ -41,11 +37,11 @@ Je crée des **applications web dynamiques** centrées sur l'utilisateur, y comp
 ## 📌 Projets réalisés  
 
 - **[CinéDelices](https://github.com/KylianZamy74/CineDelices)** – Une application qui associe films et recettes de cuisine  
-- **Application de stage** – Développée durant ma formation (plus d’infos sur mon site internet https://kylian.-zamy.dev).
-- **Mon site personnel** - Parce qu'il faut bien être visible sur le web 😊
-  accessible ici => **https://kylian-zamy.dev** <=
+- **Application de stage** – Développée durant ma formation (plus d’infos sur mon site internet)  
+- **[Site web personnel](https://kylian-zamy.dev)** – Un site vitrine moderne qui reflète mon profil, mes compétences et mes projets  
 
-📍 **En cours** : Mon **portfolio personnel**, un espace où je partagerai mes réalisations et expériences.  
+📍 **En cours** :
+- **Projet d’agence de voyage** – Développement d’un site web pour une société égyptienne
 
 ---
 
@@ -54,16 +50,15 @@ Je crée des **applications web dynamiques** centrées sur l'utilisateur, y comp
 📩 **Email** : [kzamy.74940@gmail.com](mailto:kzamy.74940@gmail.com)  
 🔗 **LinkedIn** : [Mon Profil](https://www.linkedin.com/in/kylian-zamy-b0a5ab303/)  
 
-Toujours partant pour échanger autour du développement web, alors n’hésitez pas à me contacter !  
+Toujours partant pour échanger autour du développement web, alors n’hésitez pas à me contacter !
 
-#### English version
-
-# 👋 Hello, I'm Kylian!  
+# 👋 Hello, I'm Kylian!
 
 ## Fullstack Web Developer | Curious & Passionate  
 
 Recently graduated, I specialize in **fullstack web development** with a focus on performance, accessibility, and user experience.  
-Currently, I'm working on my **portfolio** and preparing to launch as a **freelancer** to take on new challenges.  
+I'm currently working on a **travel agency project** for an Egyptian company.  
+🎯 Check out my **personal website** 👉 [kylian-zamy.dev](https://kylian-zamy.dev)
 
 ---
 
@@ -76,7 +71,7 @@ Currently, I'm working on my **portfolio** and preparing to launch as a **freela
 
 ### Backend  
 - **Node.js** | **Express.js**  
-- **PostgreSQL** with **Sequelize** and **Prisma**  
+- **PostgreSQL** with **Sequelize** and **Prisma**
 
 ---
 
@@ -96,9 +91,11 @@ I create dynamic web applications focused on the user, including custom online p
 ## 📌 Projects Completed  
 
 - **[CinéDelices](https://github.com/KylianZamy74/CineDelices)** – An app that links movies with recipes  
-- **Internship Project** – Developed during my training (more details coming soon on my portfolio)  
+- **Internship Project** – Developed during my training  
+- **[Personal Website](https://kylian-zamy.dev)** – A modern showcase site to present my profile, skills, and projects  
 
-📍 **Currently**: My **personal portfolio**, a space where I'll showcase my achievements and experiences.  
+📍 **Currently working on**:
+- A **travel agency website** for an Egyptian company  
 
 ---
 
@@ -107,7 +104,5 @@ I create dynamic web applications focused on the user, including custom online p
 📩 **Email**: [kzamy.74940@gmail.com](mailto:kzamy.74940@gmail.com)  
 🔗 **LinkedIn**: [My Profile](https://www.linkedin.com/in/kylian-zamy-b0a5ab303/)  
 
-I'm always up for discussing web development, so feel free to reach out!  
-
-
+I'm always up for discussing web development, so feel free to reach out!
 
