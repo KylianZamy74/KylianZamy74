@@ -3,7 +3,7 @@
 ## Développeur Web Fullstack | Curieux et Passionné  
 
 
-Développeur web **freelance basé à Annecy**, je me spécialise dans le **développement web fullstack** avec une approche centrée sur la performance, l'accessibilité et l’expérience utilisateur. avec une approche centrée sur la performance, l'accessibilité et l’expérience utilisateur.  
+Développeur web **freelance basé à Annecy**, je me spécialise dans le **développement web fullstack** avec une approche centrée sur la performance, l'accessibilité et l’expérience utilisateur. 
 Actuellement, je travaille sur un **projet d’agence de voyage** pour une société égyptienne.  
 🎯 Mon **site web personnel** est en ligne ici 👉 [kylian-zamy.dev](https://kylian-zamy.dev)
 
