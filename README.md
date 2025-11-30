@@ -31,7 +31,6 @@ Créer des expériences numériques qui :
 - **Neon / PostgreSQL**  
 - **Cloudflare** (performances, sécurité, hébergement serverless, CDN mondial)  
 - **Render**, TailwindCSS, ShadCN  
-- API-first, SSR/ISR/SSG, optimisation performance & UX
 
 ---
 
